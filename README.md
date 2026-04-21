@@ -200,8 +200,8 @@ This project is licensed under the **MIT License**.
 
 ### Resource Pages
 - **GitHub Repository:** https://github.com/NTHFCS/Vanguard
-- **SpigotMC:** [tambah setelah upload]
-- **Modrinth:** [tambah setelah upload]
+- **SpigotMC:** [Cooming Soon]
+- **Modrinth:** [Cooming Soon]
 
 ### Community
 - **Discord:** https://discord.gg/V8dpGdsMeT
