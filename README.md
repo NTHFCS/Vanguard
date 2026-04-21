@@ -97,11 +97,11 @@ Aliases: `/vg` for `/vanguard`
 All reset commands require a **two-step confirmation** within 10 seconds.
 
 ```text
-/vg reset Aaron      — first prompt: shows warning
-/vg reset Aaron      — second prompt: executes reset
+/vg reset NathanFCS      — first prompt: shows warning
+/vg reset NathanFCS      — second prompt: executes reset
 
-/vg reset all        — first prompt: shows warning
-/vg reset all        — second prompt: executes reset
+/vg reset all            — first prompt: shows warning
+/vg reset all            — second prompt: executes reset
 ```
 
 If the confirmation window expires, the request must be restarted.
@@ -111,9 +111,9 @@ If the confirmation window expires, the request must be restarted.
 ## Stats Display
 
 ```text
-/vg stats Aaron
+/vg stats NathanFCS
 
- Vanguard — Aaron
+ Vanguard — NathanFCS
 
  ▸ Status: ACTIVE
  ▸ Active Time: 3h 24m
@@ -200,8 +200,8 @@ This project is licensed under the **MIT License**.
 
 ### Resource Pages
 - **GitHub Repository:** https://github.com/NTHFCS/Vanguard
-- **SpigotMC:** [Cooming Soon]
-- **Modrinth:** [Cooming Soon]
+- **SpigotMC:** https://www.spigotmc.org/resources/vanguard.134464/
+- **Modrinth:** Coming Soon
 
 ### Community
 - **Discord:** https://discord.gg/V8dpGdsMeT
