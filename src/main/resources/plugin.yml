@@ -1,0 +1,27 @@
+name: Vanguard
+version: 1.0.2
+main: studio.nathanfcs.vanguard.VanguardPlugin
+api-version: '1.21'
+author: NathanFCS
+description: Premium staff activity tracker for Paper servers
+
+commands:
+  vanguard:
+    description: Main Vanguard command
+    usage: /vanguard help
+    aliases: [vg]
+    permission: vanguard.staff
+    permission-message: " "
+  afk:
+    description: Toggle AFK status
+    usage: /afk
+    permission: vanguard.staff
+    permission-message: " "
+
+permissions:
+  vanguard.staff:
+    description: Access to Vanguard staff tracking
+    default: op
+  vanguard.admin:
+    description: Administrative access to Vanguard
+    default: op
