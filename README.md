@@ -201,7 +201,7 @@ This project is licensed under the **MIT License**.
 ### Resource Pages
 - **GitHub Repository:** https://github.com/NTHFCS/Vanguard
 - **SpigotMC:** https://www.spigotmc.org/resources/vanguard.134464/
-- **Modrinth:** Coming Soon
+- **Modrinth:** https://modrinth.com/plugin/vanguard-tracker
 
 ### Community
 - **Discord:** https://discord.gg/V8dpGdsMeT
