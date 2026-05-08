@@ -193,7 +193,7 @@ This project is licensed under the **MIT License**.
 ## Official Links
 
 ### Profiles
-- **GitHub:** https://github.com/NTHFCS
+- **GitHub:** https://github.com/OwenCloude
 - **SpigotMC Profile:** https://www.spigotmc.org/members/nathanfcs.2521802/
 - **skUnity Profile:** https://forums.skunity.com/members/nathanfcs.40131/
 - **Modrinth Profile:** https://modrinth.com/user/NTHFCS
